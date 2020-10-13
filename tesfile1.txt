@@ -1,3 +1,5 @@
 This is testfile1 created by Alice.
 Awesome thanks! This is a second line added by Bob. 
 Did you have any idea on what you would like to do the coding project over?
+I think it would be cool to do something that involves creating our own website. 
+We could also do something related to LED lights!
