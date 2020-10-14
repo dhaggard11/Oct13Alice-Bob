@@ -1,1 +1,3 @@
 This isa second test file created by Alice that is called testfile2.
+Hi it is Alice again and me and my partner Bob are going to create our own website!
+We are going to create a website that allows you to customize your own shoes!
